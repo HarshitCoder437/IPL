@@ -72,7 +72,7 @@ h3.type {
 }
 @media screen and (max-width: 900px) {
   table {
-    min-width: 250px;
+    min-width: 315px;
   }
   td:nth-child(1) {
     display: flex;
