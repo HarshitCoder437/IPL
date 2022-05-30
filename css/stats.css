@@ -8,6 +8,7 @@ body {
   background-color: #303134;
   font-weight: normal;
   font-family: "Arial";
+  padding-bottom: 30px;
 }
 header {
   position: sticky;
